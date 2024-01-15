@@ -38,3 +38,5 @@ console.log(favNumbers[1]);
 const myFavThings = ["food", "sport", 10]; //can put strings, numbers and boolean values in arrays!
 
 console.log(myFavThings[2]); // console shows 10
+
+myFavThings[myFavThings.length - 1]; //console will show last element. arrays length(3) minus 1 = 2. arrays start at 0 so array 2 is 10.
