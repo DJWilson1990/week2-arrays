@@ -34,3 +34,7 @@ const favNumbers = [4, 8, 10];
 console.log(favNumbers[0]);
 console.log(favNumbers[2]);
 console.log(favNumbers[1]);
+
+const myFavThings = ["food", "sport", 10]; //can put strings, numbers and boolean values in arrays!
+
+console.log(myFavThings[2]); // console shows 10
